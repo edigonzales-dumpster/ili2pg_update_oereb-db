@@ -17,7 +17,7 @@ java -jar /Users/stefan/apps/ili2pg-4.3.1/ili2pg-4.3.1.jar --dbhost localhost --
 ```
 
 ```
-java -jar /Users/stefan/apps/ili2pg-4.3.1/ili2pg-4.3.1.jar --dbhost localhost --dbport 54321 --dbdatabase oereb --dbusr postgres --dbpwd secret --disableValidation --dbschema stage --defaultSrsCode 2056 --strokeArcs --models OeREBKRMvs_V1_1 --dataset ch.so.sk.gesetze --replace ch.so.sk.gesetze_ohne.xtf
+java -jar /Users/stefan/apps/ili2pg-4.3.1/ili2pg-4.3.1.jar --dbhost localhost --dbport 54321 --dbdatabase oereb --dbusr postgres --dbpwd secret --disableValidation --dbschema stage --defaultSrsCode 2056 --strokeArcs --models OeREBKRMvs_V1_1 --dataset ch.so.sk.gesetze --importTid --importBid --replace ch.so.sk.gesetze_ohne.xtf
 ```
 
 ```

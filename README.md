@@ -43,6 +43,6 @@ Die Gesetze wurden in der entsprechenden Tabelle upgedatet, d.h. in unserem Fall
 
 ![vorschriften_dokument_mit](vorschriften_dokument_mit.png)
 
-Es wurde korrekterweise kein neuer Basket hinzugfügt. Das Feld `attachementkey` wird anscheinend nicht nachgeführt (?):
+Es wurde korrekterweise kein neuer Basket hinzugefügt. Das Feld `attachementkey` wird anscheinend nicht nachgeführt (?):
 
 ![t_ili2db_basket_mit](t_ili2db_basket_mit.png)
